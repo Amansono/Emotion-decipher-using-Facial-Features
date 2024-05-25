@@ -29,3 +29,5 @@
        ├── neutral/
        ├── sad/
        └── surprise/
+
+And here realtime_image.py is a py code file where you can detect your face by camera ....
